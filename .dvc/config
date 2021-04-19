@@ -1,0 +1,5 @@
+[core]
+    remote = gsdvc
+['remote "gsdvc"']
+    url = gs://maximal-dynamo-308105-dvc-test
+    projectname = maximal-dynamo-308105
